@@ -17,6 +17,7 @@ To get cracked (find the meaning on X.com) across computer science, programming 
 - System Design
 - Testing
 - Advanced Node js
+- Release Engineering
 
 ## Approach
 
